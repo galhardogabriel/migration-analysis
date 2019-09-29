@@ -11,3 +11,9 @@ Europe is surrendering to the Islam;
 France will be come Muslim in a few years on this rhythm;
 Every Muslim couple have about 6–8 children, while Europeans have less than 2;
 Italy is being invaded by Africans.
+
+
+Sources of datasets:
+https://population.un.org/wpp/Download/Standard/Population/
+
+https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=migr_asyappctza&lang=en&fbclid=IwAR3vwo9Vu6zLX9vN1ksJc3eHn1dvOuJJ5ZXHpqofsEk0RgB277c7nycrR6I
