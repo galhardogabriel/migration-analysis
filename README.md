@@ -5,12 +5,12 @@ This repository is an independent analysis on the Migration theme in Europe. It 
 
 Please contribute to the readme file with the questions that you want to be answered, so we can try to extract the answer from the databases.
 
-So far we are verifying how the following statements has quantitative support:
+So far we are verifying how the following popular statements has quantitative support:
 
-Europe is surrendering to the Islam;
-France will be come Muslim in a few years on this rhythm;
-Every Muslim couple have about 6–8 children, while Europeans have less than 2;
-Italy is being invaded by Africans.
+- Europe is surrendering to the Islam;
+- France will be come Muslim in a few years on this rhythm;
+- Every Muslim couple have about 6–8 children, while Europeans have less than 2;
+- Italy is being invaded by Africans.
 
 
 Sources of datasets:
